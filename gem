@@ -1,0 +1,7 @@
+URLs:
+https://rubygems.org/gems/gosu
+https://rubygems.org/gems/chingu/versions/0.7.6.9
+
+Instalar en la consola
+gem install gosu
+gem install chingu -v 0.7.6.9
